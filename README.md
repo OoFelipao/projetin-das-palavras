@@ -8,4 +8,4 @@ Acessando o código
 Para acessar o código referente às aulas, clique no seletor main do repositório e selecione a aula desejada.
 
 Notas e créditos
-Feito por Giulliana Cestari e Marcelo Paludetto para Start by Alura.
+Feito por Felipe Gabriel para Start by Alura.
